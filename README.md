@@ -1,3 +1,7 @@
+URL da API = https://meuappdevotacao.herokuapp.com/Linguagens
+Aceita GET e POST
+
+
 Desafio 1:
 
 ![Animação](https://user-images.githubusercontent.com/26041581/179647738-3130d870-facc-45a5-a81e-dd9a700b0d13.gif)
